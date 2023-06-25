@@ -1,3 +1,5 @@
 # doopnet
 
-This folder conain the submodule from https://github.com/ysqiao/doopnet.git
+Please use the link below to find the project repo:  
+
+https://github.com/ysqiao/doopnet.git
